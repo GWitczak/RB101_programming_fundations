@@ -1,0 +1,45 @@
+en:
+  add: "Adding the two numbers..."
+  subtract: "Subtracting the two numbers..."
+  multiply: "Multiplying the two numbers..."
+  divide: "Dividing the two numbers..."
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to use a valid name."
+  greeting: "Hello "
+  first_number: "What's the first number?"
+  valid_number: "Hmm... that doesn't look like a valid number."
+  second_number: "What's the second number?"
+  operator_choice: "What operation would you like to perform? \n
+    1) add \n
+    2) subtract \n
+    3) multiply \n
+    4) divide"
+  divide_0: "You can't divide by 0!"
+  second_again: "Choose the second number again."
+  valid_operator: "Must choose 1, 2, 3 or 4!"
+  result_score: "The result is "
+  again: "Do you want to perform another calculation? ('Y' to calculate again)"
+  bye: "Thank you for using calculator. Good Bye!"
+
+pl:
+  add: "Dodaję podane liczby..."
+  subtract: "Odejmuję podane liczby..."
+  multiply: "Mnożę podane liczby..."
+  divide: "Dzielę podane liczbe..."
+  welcome: "Witam w programie Calculator! Wpisz swoje imię:"
+  valid_name: "Czy na pewno podałeś imię?"
+  greeting: "Cześć "
+  first_number: "Podaj pierwszą liczbę:"
+  valid_number: "Hmm... to raczej nie jest poprawna liczba."
+  second_number: "Podaj drugą liczbę:"
+  operator_choice: "Jakie działanie chcesz wykonać? \n
+    1) dodawanie \n
+    2) odejmowanie \n
+    3) mnożenie \n
+    4) dzielenie"
+  divide_0: "Nie możesz dzielić przez 0!"
+  second_again: "Wybierz drugą liczbę jeszcze raz."
+  valid_operator: "Musisz wybrać między 1, 2, 3 lub 4!"
+  result_score: "Wynik to "
+  again: "Czy chcesz wykonać kolejne działanie? (wpisz 'Y' jeśli tak)"
+  bye: "Dziękuję za używanie Calculator. Do zobaczenia!"
